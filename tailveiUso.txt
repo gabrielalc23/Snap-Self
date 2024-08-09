@@ -1,0 +1,11 @@
+ {/* <section className=" mt-20 w-full max-w-lg flex flex-col items-center p-6 sm:p-8 md:p-10 lg:p-12 rounded-lg shadow-lg">
+          <div className="w-full">
+            <Login />
+          </div>
+          <div className="mt-10 w-full flex justify-center">
+            <GoogleButton
+              type="light"
+              onClick={() => { console.log('Google button clicked') }}
+            />
+          </div>
+        </section> */}
